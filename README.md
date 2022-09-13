@@ -1,3 +1,3 @@
-# Prediksi Kasus Harian Covid19 di Indonesia
-- Dataset yang tersedia hanya kasus covid19 di Indonesi mulai tanggal 1 Juli 2021 - 14 November 2021. <br>
-- Menggunakan algoritma polynomial regression.
+# Daily Cases Prediction COVID19 in Indonesia
+- Dataset contains COVID19 daily cases in Indonesia start from 1 July 2021 - 14 November 2021. <br>
+- Using polynomial linear regression algorithm.
