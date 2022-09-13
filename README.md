@@ -9,3 +9,5 @@ Information about the Machine Learning model :
 - Using polynomial linear regression algorithm.
 
 Result : The daily cases COVID19 in Indonesia for the next 1 month shows that it will slowly decline from before. However, we must always be vigilant and remain obedient to the health protocols.
+![image](https://user-images.githubusercontent.com/113236791/189793654-6305ff34-d65a-49a2-b739-061e86aa1775.png)
+
